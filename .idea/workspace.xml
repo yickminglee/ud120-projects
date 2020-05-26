@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83eac5f1-9e62-452b-9740-3171a41953fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/text_learning/vectorize_text.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k_means/clusters (2 features).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/k_means/clusters (2 features).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k_means/clusters (3 features).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/k_means/clusters (3 features).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k_means/k_means_cluster.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/k_means/k_means_cluster.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_learning/vectorize_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_learning/vectorize_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/parse_out_email_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/parse_out_email_text.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="cace13d9-7551-4847-a88d-af0ee0e818d8" />
+  <component name="ProjectId" id="1aJQlx1ZGQ6H1D2wNiFeCyItiks" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ud120-projects" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ud120-projects" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/choose_your_own" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.vectorize_text">
+    <configuration name="find_signature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ud120-projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feature_selection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feature_selection/find_signature.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="k_means_cluster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ud120-projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/k_means" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/k_means/k_means_cluster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parse_out_email_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ud120-projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/parse_out_email_text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="startup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ud120-projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/startup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vectorize_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ud120-projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_learning/vectorize_text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.vectorize_text" />
+        <item itemvalue="Python.startup" />
+        <item itemvalue="Python.parse_out_email_text" />
+        <item itemvalue="Python.find_signature" />
+        <item itemvalue="Python.k_means_cluster" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83eac5f1-9e62-452b-9740-3171a41953fa" name="Default Changelist" comment="" />
+      <created>1586451372093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586451372093</updated>
+      <workItem from="1586451376161" duration="183000" />
+      <workItem from="1586451620325" duration="497000" />
+      <workItem from="1586483619227" duration="947000" />
+      <workItem from="1586740379719" duration="17561000" />
+      <workItem from="1587390583296" duration="1838000" />
+      <workItem from="1588680214898" duration="4312000" />
+      <workItem from="1588693317170" duration="2655000" />
+      <workItem from="1588695993351" duration="2803000" />
+      <workItem from="1588761950656" duration="850000" />
+      <workItem from="1588762836188" duration="1483000" />
+      <workItem from="1588765944965" duration="2527000" />
+      <workItem from="1588864966600" duration="999000" />
+      <workItem from="1588866007182" duration="296000" />
+      <workItem from="1589380276566" duration="50000" />
+      <workItem from="1589433413649" duration="6060000" />
+      <workItem from="1589477938006" duration="17000" />
+      <workItem from="1589565680528" duration="4885000" />
+      <workItem from="1589611957823" duration="520000" />
+      <workItem from="1589621444545" duration="1183000" />
+      <workItem from="1589647751881" duration="200000" />
+      <workItem from="1589967895430" duration="15352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="182" key="#Inspections" timestamp="1588694696505">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state x="424" y="182" key="#Inspections/0.23.1623.1027@0.23.1623.1027" timestamp="1588694696505" />
+    <state x="287" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586745530569">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state x="287" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1623.1027@0.23.1623.1027" timestamp="1586745530569" />
+    <state width="1580" height="267" key="GridCell.Tab.0.bottom" timestamp="1590473486759">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state width="1580" height="267" key="GridCell.Tab.0.bottom/0.23.1623.1027@0.23.1623.1027" timestamp="1590473486759" />
+    <state width="1580" height="267" key="GridCell.Tab.0.center" timestamp="1590473486758">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state width="1580" height="267" key="GridCell.Tab.0.center/0.23.1623.1027@0.23.1623.1027" timestamp="1590473486758" />
+    <state width="1580" height="267" key="GridCell.Tab.0.left" timestamp="1590473486758">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state width="1580" height="267" key="GridCell.Tab.0.left/0.23.1623.1027@0.23.1623.1027" timestamp="1590473486758" />
+    <state width="1580" height="267" key="GridCell.Tab.0.right" timestamp="1590473486759">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state width="1580" height="267" key="GridCell.Tab.0.right/0.23.1623.1027@0.23.1623.1027" timestamp="1590473486759" />
+    <state width="1580" height="329" key="GridCell.Tab.1.bottom" timestamp="1590471260252">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state width="1580" height="329" key="GridCell.Tab.1.bottom/0.23.1623.1027@0.23.1623.1027" timestamp="1590471260252" />
+    <state width="1580" height="329" key="GridCell.Tab.1.center" timestamp="1590471260251">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state width="1580" height="329" key="GridCell.Tab.1.center/0.23.1623.1027@0.23.1623.1027" timestamp="1590471260251" />
+    <state width="1580" height="329" key="GridCell.Tab.1.left" timestamp="1590471260251">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state width="1580" height="329" key="GridCell.Tab.1.left/0.23.1623.1027@0.23.1623.1027" timestamp="1590471260251" />
+    <state width="1580" height="329" key="GridCell.Tab.1.right" timestamp="1590471260252">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state width="1580" height="329" key="GridCell.Tab.1.right/0.23.1623.1027@0.23.1623.1027" timestamp="1590471260252" />
+    <state x="363" y="155" key="SettingsEditor" timestamp="1588865925310">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state x="363" y="155" key="SettingsEditor/0.23.1623.1027@0.23.1623.1027" timestamp="1588865925310" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1586790311593">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1623.1027@0.23.1623.1027" timestamp="1586790311593" />
+    <state x="600" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590469197495">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state x="600" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1623.1027@0.23.1623.1027" timestamp="1590469197495" />
+    <state x="476" y="240" width="670" height="676" key="search.everywhere.popup" timestamp="1590471587297">
+      <screen x="0" y="23" width="1623" height="1027" />
+    </state>
+    <state x="476" y="240" width="670" height="676" key="search.everywhere.popup/0.23.1623.1027@0.23.1623.1027" timestamp="1590471587297" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/regression/finance_regression.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ud120_projects$explore_enron_data.coverage" NAME="explore_enron_data Coverage Results" MODIFIED="1587390625934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets_questions" />
+    <SUITE FILE_PATH="coverage/ud120_projects$k_means_cluster.coverage" NAME="k_means_cluster Coverage Results" MODIFIED="1588771352521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/k_means" />
+    <SUITE FILE_PATH="coverage/ud120_projects$outlier_removal_regression.coverage" NAME="outlier_removal_regression Coverage Results" MODIFIED="1588696029206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/outliers" />
+    <SUITE FILE_PATH="coverage/ud120_projects$enron_outliers.coverage" NAME="enron_outliers Coverage Results" MODIFIED="1588729482289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/outliers" />
+    <SUITE FILE_PATH="coverage/ud120_projects$outlier_cleaner.coverage" NAME="outlier_cleaner Coverage Results" MODIFIED="1588695339290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/outliers" />
+    <SUITE FILE_PATH="coverage/ud120_projects$parse_out_email_text.coverage" NAME="parse_out_email_text Coverage Results" MODIFIED="1590463140290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/ud120_projects$dt_author_id.coverage" NAME="dt_author_id Coverage Results" MODIFIED="1586746137333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decision_tree" />
+    <SUITE FILE_PATH="coverage/ud120_projects$find_signature.coverage" NAME="find_signature Coverage Results" MODIFIED="1589433670946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feature_selection" />
+    <SUITE FILE_PATH="coverage/ud120_projects$startup.coverage" NAME="startup Coverage Results" MODIFIED="1590465095862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/ud120_projects$finance_regression.coverage" NAME="finance_regression Coverage Results" MODIFIED="1588728050319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regression" />
+    <SUITE FILE_PATH="coverage/ud120_projects$vectorize_text.coverage" NAME="vectorize_text Coverage Results" MODIFIED="1590472641056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text_learning" />
+  </component>
+</project>
