@@ -13,4 +13,4 @@ my_feature_list.pkl
 .idea/*
 .DS_store
 *.png
-
+*.ipynb_checkpoints*
